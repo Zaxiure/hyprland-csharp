@@ -1,1 +1,1 @@
-Still working this out, will be an IPC wrapper for hyprland.
+Still working this out, will be a C# IPC wrapper for hyprland.
